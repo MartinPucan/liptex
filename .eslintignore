@@ -1,0 +1,6 @@
+src/api/configuration.ts
+src/api/custom.d.ts
+src/api/index.ts
+src/api/api.js
+*.js
+*.jsx

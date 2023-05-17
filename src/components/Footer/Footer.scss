@@ -1,0 +1,21 @@
+.footer {
+  padding: 2.5rem 3.25rem 1rem 2.5rem;
+  background: #2c0b0b;
+
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+
+    .item {
+      flex-basis: 33.33%;
+    }
+  }
+}
+
+.copyright {
+  margin-top: 2rem;
+  text-align: center;
+}
