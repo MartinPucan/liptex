@@ -24,9 +24,6 @@ const HomePage = () => {
         <div className="wrapper mb-4 mt-1">
           <div className="wrapper--left">
             <p className="title-2 mt-1 mb-3">Kvalitní šití pánského oblečení na míru v krátkém čase</p>
-            {/*<div className="hp-input">*/}
-
-            {/*</div>*/}
             <div></div>
             <Card className="card card--explore-light">
               <img src={wedding} />
