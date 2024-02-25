@@ -1,7 +1,5 @@
 import React from 'react';
 
-import './Gap.scss';
-
 // export interface IGapHeight {
 //   lg?: number;
 //   md?: number;
